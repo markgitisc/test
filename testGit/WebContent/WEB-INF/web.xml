@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <description></description>
-    <display-name>HelloGit</display-name>
+    <display-name>HelloGit2</display-name>
     <servlet-name>HelloGit</servlet-name>
     <servlet-class>com.HelloGit</servlet-class>
   </servlet>
