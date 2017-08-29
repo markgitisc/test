@@ -1,5 +1,5 @@
 package com;
 
-public class wanzi {
+public class wanzi { 
 
 }
