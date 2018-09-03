@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-mark1mark2wanzi2mark3
-mark1wanzi1
+mark1mark3
 </body>
 </html>
